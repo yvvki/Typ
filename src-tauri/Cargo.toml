@@ -1,15 +1,12 @@
 [package]
-name = "app"
+name = "typ"
 version = "0.1.0"
-description = "A Tauri App"
-authors = ["you"]
-license = ""
-repository = ""
-default-run = "app"
+authors = ["Yuuki Rika <yvvki@duck.com>"]
 edition = "2021"
-rust-version = "1.60"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+description = "Modular text editor"
+repository = "https://github.com/yvvki/Typ"
+license = "(ISC OR BSD-2-Clause)"
+categories = ["text-editors"]
 
 [build-dependencies]
 tauri-build = "1.5.0"

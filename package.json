@@ -1,6 +1,20 @@
 {
-  "name": "qwik-tauri",
-  "description": "App with Routing built-in ready to create your app",
+  "name": "typ",
+  "version": "0.1.0",
+  "description": "Modular text editor",
+  "homepage": "https://github.com/yvvki/Typ#readme",
+  "bugs": {
+    "url": "https://github.com/yvvki/Typ/issues"
+  },
+  "license": "(ISC OR BSD-2-Clause)",
+  "author": {
+    "name": "Yuuki Rika",
+    "email": "yvvki@duck.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yvvki/Typ.git"
+  },
   "type": "module",
   "engines": {
     "node": ">=15.0.0"
