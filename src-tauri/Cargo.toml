@@ -3,6 +3,7 @@ name = "typ"
 version = "0.1.0"
 authors = ["Yuuki Rika <yvvki@duck.com>"]
 edition = "2021"
+rust-version = "1.74"
 description = "Modular text editor"
 repository = "https://github.com/yvvki/Typ"
 license = "(ISC OR BSD-2-Clause)"
