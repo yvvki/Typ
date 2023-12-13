@@ -1,6 +1,7 @@
 {
   "name": "qwik-tauri",
   "description": "App with Routing built-in ready to create your app",
+  "type": "module",
   "engines": {
     "node": ">=15.0.0"
   },
