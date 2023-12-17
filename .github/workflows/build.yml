@@ -19,5 +19,6 @@ jobs:
           node-version: 'lts/*'
           check-latest: true
           cache: 'yarn'
-      - run: yarn install --frozen-lockfile
+      # https://stackoverflow.com/a/69944063/14511192
+      - run: yarn install --immutable --immutable-cache --check-cache
       - run: yarn tauri build
