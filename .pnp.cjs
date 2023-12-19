@@ -28,6 +28,9 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@builder.io/qwik", "virtual:0cc5c401b40b6ff7cb28aa6fb6674466e4a8c4e399ea0b84f16c0c23784b44c844b2cb99aa0ee92d29ea3e8af7a7337f5bf3204e75eeadd20e0c5371fe4b73f3#npm:1.3.0"],\
           ["@builder.io/qwik-city", "npm:1.3.0"],\
+          ["@img/sharp-darwin-arm64", "npm:0.33.0"],\
+          ["@img/sharp-linux-x64", "npm:0.33.0"],\
+          ["@img/sharp-win32-x64", "npm:0.33.0"],\
           ["@tauri-apps/cli", "npm:1.5.8"],\
           ["@types/eslint", "npm:8.44.9"],\
           ["@types/node", "npm:20.10.4"],\
@@ -5080,6 +5083,9 @@ const RAW_RUNTIME_STATE =
           ["typ", "workspace:."],\
           ["@builder.io/qwik", "virtual:0cc5c401b40b6ff7cb28aa6fb6674466e4a8c4e399ea0b84f16c0c23784b44c844b2cb99aa0ee92d29ea3e8af7a7337f5bf3204e75eeadd20e0c5371fe4b73f3#npm:1.3.0"],\
           ["@builder.io/qwik-city", "npm:1.3.0"],\
+          ["@img/sharp-darwin-arm64", "npm:0.33.0"],\
+          ["@img/sharp-linux-x64", "npm:0.33.0"],\
+          ["@img/sharp-win32-x64", "npm:0.33.0"],\
           ["@tauri-apps/cli", "npm:1.5.8"],\
           ["@types/eslint", "npm:8.44.9"],\
           ["@types/node", "npm:20.10.4"],\
