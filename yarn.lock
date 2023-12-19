@@ -4506,11 +4506,6 @@ __metadata:
     undici: "npm:^5.26.0"
     vite: "npm:^5.0.0"
     vite-tsconfig-paths: "npm:^4.2.0"
-  dependenciesMeta:
-    "@typescript-eslint/utils":
-      optional: true
-    sharp:
-      optional: true
   languageName: unknown
   linkType: soft
 
